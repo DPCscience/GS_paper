@@ -2,7 +2,7 @@
 
 **Wolfe-Pino Del Carpio et al 2017**
 
-Upload of tutorials to do the analyses that will be published in the GS paper in cassava
+Upload of tutorials to do the analyses that will be published in the cassava GS paper
 
 **Follow the links to go to the Rmarkdown files**
 
