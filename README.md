@@ -1,4 +1,5 @@
-# GS_paper Wolfe-Pino Del Carpio et al 2017
+# GS_paper 
+**Wolfe-Pino Del Carpio et al 2017**
 Upload of tutorials to do the analyses that will be published in the GS paper in cassava
 
 **Follow the links to go to the Rmarkdown files**
